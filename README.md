@@ -1,2 +1,3 @@
 # Physics-Engine-
-Work in progress
+
+Simulating particle collisions using basic maths and rules of pyshics
